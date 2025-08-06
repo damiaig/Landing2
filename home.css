@@ -94,7 +94,7 @@ body {
     
   .hero-center {
     position: absolute;
-    top: 45%;
+    top: 50%;
     left: 50%;
   
     transform: translate(-50%, -50%);
@@ -161,7 +161,7 @@ body {
 }
   @media (max-width: 1024px) {
     .hero-center {
-      top: 45%;
+      top: 50%;
     }
   
     .hero-center h1 {
@@ -179,7 +179,7 @@ body {
   /* Mobile view (max 600px) */
   @media (max-width: 600px) {
     .hero-center {
-      top: 45%;
+      top: 50%;
     }
  
     .bg-image{
